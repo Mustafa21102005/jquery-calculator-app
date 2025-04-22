@@ -25,6 +25,12 @@ A user-friendly calculator application built with **HTML**, **CSS**, and **JavaS
 - **CSS3**
 - **JavaScript (jQuery 3.7.1)**
 
+## 🚀 Deployment
+
+Deployed with **GitHub Pages**:
+
+👉 [Live Demo](https://mustafa21102005.github.io/norman-borlaug-biography-page/)
+
 # 👨‍💻 Author
 
 **Mustafa**
