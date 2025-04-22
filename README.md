@@ -27,5 +27,6 @@ A user-friendly calculator application built with **HTML**, **CSS**, and **JavaS
 
 # 👨‍💻 Author
 
-**Mustafa**  
+**Mustafa**
+
 📞 [Need help or feedback? Reach out via WhatsApp](https://wa.me/966545117570)
