@@ -29,7 +29,7 @@ A user-friendly calculator application built with **HTML**, **CSS**, and **JavaS
 
 Deployed with **GitHub Pages**:
 
-👉 [Live Demo](https://mustafa21102005.github.io/norman-borlaug-biography-page/)
+👉 [Live Demo](https://mustafa21102005.github.io/jquery-calculator-app/)
 
 # 👨‍💻 Author
 
